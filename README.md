@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=00BFFF&center=true&width=435&lines=Hello%2C+I+am+Rahul!;Tech+Enthusiast+%7C+3D+Modeler+%7C+Innovator;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=00BFFF&center=true&width=435&lines=Hello%2C+I+am+Rahul!;Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,9 +15,7 @@
 ## 🌟 About Me
 
 - 👨‍💻 **Tech Enthusiast:** Passionate about learning and working with cutting-edge technologies.
-- 🎨 **3D Modeler:** Crafting unique 3D models and exploring new tools in the domain.
-- 🛠️ **Innovator:** Currently working on [Virtually Try On Clothes with AI](#).
-- 🚀 **Exploring:** AI, Web Development, and Creative Tech Projects.
+- 🚀 **Explorer:** AI, Web Development, and Creative Tech Projects.
 
 ---
 
@@ -40,8 +38,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulGithubHandle&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RahulGithubHandle&theme=tokyonight" alt="Rahul's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulrayudu&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahulrayudu&theme=tokyonight" alt="Rahul's Streak Stats" />
 </div>
 
 ---
