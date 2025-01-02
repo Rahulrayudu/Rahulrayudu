@@ -46,9 +46,9 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-242424?logo=google-chrome&logoColor=white&style=for-the-badge)](https://your-portfolio-site.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/rahulsandireddy)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-242424?logo=google-chrome&logoColor=white&style=for-the-badge)](https://rahul-sandireddy.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sandireddyrahul@gmail.com)
 
 ---
 
